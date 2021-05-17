@@ -57,7 +57,7 @@ env: flex
 manual_scaling:
   instances: 1
 resources:
-  cpu: 2
-  memory_gb: 1
-  disk_size_gb: 15
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 10
 # [END gae_flex_quickstart_yaml]
